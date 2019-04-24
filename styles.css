@@ -1,0 +1,34 @@
+body {
+    background-color: #546E7A;
+    font-family: monospace;
+    margin-top: 3em;
+    margin-bottem: 3em;
+}
+
+.h2-style{
+    color: #FF80AB !important;
+    font-family: monospace !important;
+}
+
+.h3-style {
+    color: #5CF19E !important;
+    font-family: monospace !important;
+}
+
+.h4-style {
+    color: #80D8FF !important;
+    font-family: monospace !important;
+}
+
+#main-header {
+    color: #ECEFF1;
+    font-family: monospace !important;
+}
+
+.centered-text {
+    text-align: center !important;
+}
+
+.inline {
+    display: inline;
+}
