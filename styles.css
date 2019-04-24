@@ -2,7 +2,7 @@ body {
     background-color: #546E7A;
     font-family: monospace;
     margin-top: 3em;
-    margin-bottem: 3em;
+    margin-bottom: 3em;
 }
 
 .h2-style{
@@ -13,6 +13,7 @@ body {
 .h3-style {
     color: #5CF19E !important;
     font-family: monospace !important;
+    margin-bottom: 3em !important;
 }
 
 .h4-style {
@@ -22,7 +23,8 @@ body {
 
 #main-header {
     color: #ECEFF1;
-    font-family: monospace !important;
+    font-family: monospace;
+    font-size: 4em;
 }
 
 .centered-text {
@@ -34,5 +36,13 @@ body {
 }
 
 .skill-section {
-    margin-top: 2em;
+    margin-top: 3em;
+}
+
+.margin-btm-2 {
+    margin-bottom: 2em !important;
+}
+
+a {
+    color: #FFE57F;
 }
